@@ -5,7 +5,7 @@ describe('Fizz Buzz', () => {
     })
 
       it('returns a number if no game rules are met', () => {
-        expect(fizzBuzz.check(1)).to.eql(1)
+      expect(fizzBuzz.check(1)).to.eql(1)
       })
 
       it('returns Fizz if number is divisible by 3', () => {
@@ -19,6 +19,10 @@ describe('Fizz Buzz', () => {
       it('returns FizzBuzz if number is divisible by 15', () => {
         expect(fizzBuzz.check(15)).to.eql('FizzBuzz')
       })
+
+     //it('returns Please enter a valid number if is a word', () => {
+      //  expect(fizzBuzz.check(num1)).to.eql('Please enter a valid number')
+     //})
 
 })
 

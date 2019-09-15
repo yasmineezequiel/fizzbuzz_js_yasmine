@@ -1,4 +1,4 @@
-require('../spec.helper')
+require('./spec.helper')
 
 describe('Your test case description', () => {
     // Setup

@@ -9,9 +9,10 @@ function FizzBuzz()  {
     } else {
       return number
     }
+    }
   }
-};
 
   if (typeof module !== 'undefined' && module.exports) {
     module.exports = FizzBuzz;
   } 
+  

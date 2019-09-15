@@ -6,4 +6,6 @@
 #Question 5. In your README to the best of your knowledge please explain the difference between feature and unit test
 #Question 6. In your README to the best of your knowledge please explain what this following code does
 #Question 7. In your README to the best of your knowledge please explain what expectations in the context of testing are
+#Question 8. In your README to the best of your knowledge please write a line to line explanation of what is happening in this code
+#Question 9. In your README to the best of your knowledge please explain what a CDN (Content Delivery Network) is?
 
