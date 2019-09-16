@@ -1,0 +1,35 @@
+body {
+  background-color: indianred;
+  margin: 180px;
+  align-content: center;
+  height: 10px;
+}
+
+head {
+  align-content: center;
+  margin: 180px;
+  height: 10px;
+}
+iclass {
+  size: 3000px;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 80px; 
+  color: brown;
+  margin-bottom: 25px;
+}
+
+h2 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  color: #FAFAD2;
+}
+#display_answer {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+  color: rgb(31, 77, 74);
+  margin-top: 25px;
+}
+
